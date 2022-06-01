@@ -1,2 +1,2 @@
-# python-binary-heap
+# Python Binary Heap
 Python3 binary heap implementation.
